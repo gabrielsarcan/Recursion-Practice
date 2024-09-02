@@ -20,3 +20,4 @@ function findMax(arr, n) {
     }
 }
 console.log('min =',findMin(arr, n))
+console.log('max =', findMax(arr, n))
